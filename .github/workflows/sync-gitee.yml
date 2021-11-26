@@ -2,7 +2,7 @@ name: SyncGitee
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 */10 * *'
+    - cron: '0 0 */1 * *'
 jobs:
   run:
     name: Run
@@ -15,6 +15,7 @@ jobs:
           dst: gitee/funnyzak
           dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
           dst_token: ${{ secrets.GITEE_TOKEN }}
+          white_list: ${{ secrets.SYNC_REPOS }}
           set_about: true
           force_update: false
           debug: false
