@@ -2,7 +2,7 @@ name: SyncGitee
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 */3 * *'
+    - cron: '0 0 */10 * *'
 jobs:
   run:
     name: Run
