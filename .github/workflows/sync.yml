@@ -1,0 +1,22 @@
+name: SyncGitee
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 1 * * *'
+jobs:
+  run:
+    name: Run
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source codes
+        uses: actions/checkout@v2
+      - name: Sync Github to Gitee with white list
+        uses: Yikun/hub-mirror-action@master
+        with:
+          src: github/funnyzak
+          dst: gitee/funnyzak
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+          dst_token: ${{ secrets.GITEE_TOKEN }}
+          set_about: true
+          force_update: false
+          debug: false
