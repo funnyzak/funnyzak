@@ -2,7 +2,7 @@ name: SyncGitee
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '0 0 */3 * *'
 jobs:
   run:
     name: Run
@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: Checkout source codes
         uses: actions/checkout@v2
-      - name: Sync Github to Gitee with white list
+      - name: Sync Github to Gitee
         uses: Yikun/hub-mirror-action@master
         with:
           src: github/funnyzak
