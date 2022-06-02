@@ -3,7 +3,7 @@
 ### Hi there，I'm Leon 🙋‍♂️
 
 - Open source is something I'm interested in right now.
-- I like to explore and focus on new technologies.
+- I'm always focus and learning new technologies.
 
 ## Follow Me
 [![Twitter Badge](https://img.shields.io/badge/-funnyzak-%231DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/funnyzak/)](https://twitter.com/funnyzak)
