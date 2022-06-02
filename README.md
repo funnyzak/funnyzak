@@ -8,7 +8,7 @@
 ## Follow Me
 [![Twitter Badge](https://img.shields.io/badge/-funnyzak-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/funnyzak/)](https://twitter.com/funnyzak)
 [![Instagram Badge](https://img.shields.io/badge/-ifunnyzak-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ifunnyzak/)](https://instagram.com/ifunnyzak)
-[![Gmail Badge](https://img.shields.io/badge/-silenceace@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silenceace@gmail.com)](mailto:silenceace@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-y@yycc.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:y@yycc.me)](mailto:y@yycc.me)
 
 
 ## Technologies
