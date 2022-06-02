@@ -6,8 +6,10 @@
 - I like to explore and focus on new technologies.
 
 ## Follow Me
-[![Twitter Badge](https://img.shields.io/badge/-funnyzak-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/funnyzak/)](https://twitter.com/funnyzak)
+[![Twitter Badge](https://img.shields.io/badge/-funnyzak-%231DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/funnyzak/)](https://twitter.com/funnyzak)
+[![Telegram](https://img.shields.io/badge/ericrab-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ericrab)
 [![Instagram Badge](https://img.shields.io/badge/-ifunnyzak-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ifunnyzak/)](https://instagram.com/ifunnyzak)
+[![Discord](https://img.shields.io/badge/Dev-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](#)
 [![Gmail Badge](https://img.shields.io/badge/-y@yycc.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:y@yycc.me)](mailto:y@yycc.me)
 
 
@@ -27,11 +29,13 @@
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-sqare&logo=c-sharp&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-sqare&logo=swift&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
