@@ -1,20 +1,33 @@
-## Hi there 👋   I'm Leon.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=funnyzak&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+
+### Hi there，I'm Leon 🙋‍♂️
+
+- Open source is something I'm interested in right now.
+- I like to explore and focus on new technologies.
+
+## Follow Me
+[![Twitter Badge](https://img.shields.io/badge/-funnyzak-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/funnyzak/)](https://twitter.com/funnyzak)
+[![Instagram Badge](https://img.shields.io/badge/-ifunnyzak-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ifunnyzak/)](https://instagram.com/ifunnyzak)
+[![Gmail Badge](https://img.shields.io/badge/-silenceace@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silenceace@gmail.com)](mailto:silenceace@gmail.com)
 
 
+## Technologies
 
-<img src="https://github-readme-stats.vercel.app/api?username=funnyzak&count_private-true&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff" /> 
-
-<!--
-**funnyzak/funnyzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-sqare&logo=c-sharp&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-sqare&logo=swift&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
