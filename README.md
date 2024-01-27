@@ -5,13 +5,6 @@
 - Open source is something I'm interested in right now.
 - I'm always focus and learning new technologies.
 
-## Follow Me
-[![Twitter Badge](https://img.shields.io/badge/-funnyzak-%231DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/funnyzak/)](https://twitter.com/funnyzak)
-[![Telegram](https://img.shields.io/badge/ericrab-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ericrab)
-[![Instagram Badge](https://img.shields.io/badge/-ifunnyzak-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ifunnyzak/)](https://instagram.com/ifunnyzak)
-[![Discord](https://img.shields.io/badge/Dev-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](#)
-[![Gmail Badge](https://img.shields.io/badge/-y@yycc.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:y@yycc.me)](mailto:y@yycc.me)
-
 
 ## Technologies
 
@@ -23,6 +16,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-sqare&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
